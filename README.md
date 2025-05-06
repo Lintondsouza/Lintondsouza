@@ -1,5 +1,27 @@
-# 💫 About Me:
-### 👋 Hi, I’m **Linton Dsouza**<br><br>- 👀 **I’m interested in:**  <br>  - Embedded & real‑time systems (STM32, ARM Cortex‑M)  <br>  - Clean software architecture & design patterns  <br>  - IoT, sensor networks, and environmental monitoring  <br><br>- 🌱 **Currently learning:**  <br>  - Advanced driver development for STM32 peripherals  <br>  - Secure firmware best practices & basic cyber‑threat modeling  <br>  - React & modern web tooling for quick dashboards<br><br>- 💞️ **Looking to collaborate on:**  <br>  - Open‑source HAL/drivers for common sensors  <br>  - Student‑friendly tutorials or lab material for embedded classes  <br>  - Fun side projects that bridge hardware and software<br><br>- 😄 **Pronouns:** he / him<br><br>- ⚡ **Fun fact:** When I’m not coding, you’ll find me turning random household items into smart gadgets—because everything deserves a microcontroller!<br><br>---<br><br>> “If it ain’t broke, reverse‑engineer it until you know why.”  <br>> — me, probably at 3 AM in the lab
+# 💫 About Me
+### 👋 Hi, I’m **Linton Dsouza**
+
+- 👀 **I’m interested in:**  
+  - Internet of Things 
+  - Intro‑level AI & machine learning in Python  
+  - Casual game dev (Unity mini‑projects & game‑jam fun)  
+  - Front‑end web work with HTML + CSS + React basics  
+
+- 🌱 **Currently learning:**  
+  - Cleaner C/C++ for microcontrollers  
+  - Python scripting & data wrangling  
+  - Modern JavaScript / React and basic back‑end APIs  
+  - Git, GitHub workflows, and CI fundamentals  
+
+- 💞️ **Looking to collaborate on:**  
+  - Student IoT builds or classroom projects  
+  - Small web apps for campus clubs or events  
+  - Game‑jam teams that need a coder or tester  
+
+- 📫 **Reach me:** linton.dsouza@example.com · [LinkedIn](https://linkedin.com/in/your‑profile)  
+- 😄 **Pronouns:** he / him  
+
+---
 
 
 ## 🌐 Socials:
