@@ -4,13 +4,14 @@
 - 👀 **I’m interested in:**  
   - Internet of Things 
   - Intro‑level AI & machine learning in Python  
-  - Casual game dev (Unity mini‑projects & game‑jam fun)  
+  - Casual game dev 
   - Front‑end web work with HTML + CSS + React basics  
 
 - 🌱 **Currently learning:**  
-  - Cleaner C/C++ for microcontrollers  
+  - Software Testing and Validation 
   - Python scripting & data wrangling  
-  - Modern JavaScript / React and basic back‑end APIs  
+  - Modern JavaScript / React and basic back‑end APIs
+  - Cloud computing 
   - Git, GitHub workflows, and CI fundamentals  
 
 - 💞️ **Looking to collaborate on:**  
